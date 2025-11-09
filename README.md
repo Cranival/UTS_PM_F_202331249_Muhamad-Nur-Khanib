@@ -75,5 +75,3 @@ Proyek ini merupakan tugas UTS yang mencakup dua bagian utama:
    ```
 
 ---
-
-👉 Mau saya buatkan juga **README.md lengkap** (siap upload ke GitHub) dan **requirements.txt** untuk dependencies?
