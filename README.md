@@ -59,11 +59,11 @@ Proyek ini merupakan tugas UTS yang mencakup dua bagian utama:
 ### 🚀 Cara Menjalankan
 1. Clone repository:
    ```bash
-   git clone https://github.com/username/uts-machine-learning.git
+   git clone https://github.com/Cranival/UTS_PM_F_202331249_Muhamad-Nur-Khanib.git
    ```
 2. Masuk ke folder:
    ```bash
-   cd uts-machine-learning
+   cd UTS_PM_F_202331249_Muhamad-Nur-Khanib
    ```
 3. Install dependencies:
    ```bash
@@ -71,7 +71,7 @@ Proyek ini merupakan tugas UTS yang mencakup dua bagian utama:
    ```
 4. Jalankan Jupyter Notebook:
    ```bash
-   jupyter notebook UTS_Machine_Learning_Project.ipynb
+   jupyter notebook Regresi dan Klasifikasi.ipynb
    ```
 
 ---
